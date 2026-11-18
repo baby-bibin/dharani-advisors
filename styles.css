@@ -126,7 +126,7 @@ a {
 
 .nav-cta {
   display: inline-flex;
-  min-height: 43px;
+  min-height: 44px;
   align-items: center;
   gap: 17px;
   padding: 0 17px;
@@ -1223,6 +1223,7 @@ h2 em {
 
   .menu-toggle {
     display: flex;
+    min-height: 44px;
     align-items: center;
     gap: 11px;
     padding: 10px 0 10px 10px;
