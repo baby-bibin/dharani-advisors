@@ -260,6 +260,18 @@ h2 em {
   font-size: 15px;
 }
 
+.icon-arrow {
+  display: block;
+  width: 1em;
+  height: 1em;
+  overflow: visible;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.75;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
 .text-link,
 .underlined-link {
   display: inline-flex;
